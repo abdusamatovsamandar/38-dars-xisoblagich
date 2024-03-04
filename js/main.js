@@ -14,3 +14,14 @@ else if(residual <= 0)
 else
     console.log("Alisher pul miqdorini kiritishda xatolik mavjud iltimos qayta urinib ko'ring! Namuna : 1500000.00")
     // alert("Alisher pul miqdorini kiritishda xatolik mavjud iltimos qayta urinib ko'ring! Namuna : 1500000.00")
+
+
+
+
+
+
+
+
+
+
+    
